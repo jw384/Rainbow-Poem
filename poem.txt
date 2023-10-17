@@ -1,6 +1,7 @@
 The rainbow and unicorn:
 
 purple
+indigo
 blue
 green
 greenish-yellow
