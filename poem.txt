@@ -7,8 +7,10 @@ green
 greenish-yellow
 yellow
 unicorn
+recycle
 orange
 pink
 red
+redddd
 
 these are the colors of the rainbow and unicorn.
